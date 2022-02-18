@@ -132,8 +132,8 @@ unfollower() {
 user_account=$user
 get_following
 
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Preparing to unfollow all followers from \e[0m\e[1;77m%s ...\e[0m\n" $user_account
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;31m Press \"Ctrl + c\" to stop...\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Tüm takipten çıkma hazırlanıyor \e[0m\e[1;77m%s ...\e[0m\n" $user_account
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;31m Durdurmak için \"Ctrl + c\" tuşlarına basın...\e[0m\n"
 sleep 4
 while [[ true ]]; do
 
@@ -173,7 +173,7 @@ printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Çıkış\e[0m\n"
 printf "\n"
 
 
-read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;77m Choose an option: \e[0m' option
+read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;77m Bir seçenek belirleyin: \e[0m' option
 
 if [[ $option -eq 1 ]]; then
 login_user
