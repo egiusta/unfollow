@@ -1,6 +1,6 @@
 # Instagram Takip Bırakma
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-8J-oK3_EcNw/X2X9W9XspgI/AAAAAAAAARk/BDfV9K82qCI7fFUAnd8adFp51vgluNtIgCLcBGAsYHQ/s1080/Screenshot_20200919_181403.jpg" width="470" height="250">
+  <img src="https://r.resimlink.com/52hE.jpg" width="470" height="250">
 </p>
 Instagram'daki Tüm Takipçilerinizi Takip Etmemek İçin En İyi Araç.
 
