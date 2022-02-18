@@ -18,9 +18,9 @@ Instagram'daki Tüm Takipçilerinizi Takip Etmemek İçin En İyi Araç.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insunfollow`
+`$ git clone https://github.com/egiusta/unfollow`
 
-`$ cd insunfollow`
+`$ cd unfollow`
 
 `$ chmod +x insunfollow.sh`
 
